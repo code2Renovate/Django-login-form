@@ -9,9 +9,6 @@ from accounts import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    
-    # This path connects the root URL of your site to the create_account_view.
-    # The 'name' is crucial for the redirect in your view to work correctly.
     path('', views.create_account_view, name='create_account'),
 ]
 
