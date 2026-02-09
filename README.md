@@ -50,7 +50,7 @@ Displays a complete user registration form with all required fields.
 ## 📂 Project Structure
 
 ```text
-DJANGO-LOGIN-FORM/
+django-user-registration/
 │
 ├── DJANGO/              # Main Django project folder (settings, urls, wsgi)
 │
@@ -70,8 +70,8 @@ DJANGO-LOGIN-FORM/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/code2Renovate/Django-login-form.git
-cd Django-login-form
+git clone https://github.com/code2Renovate/django-user-registration.git
+cd django-user-registration
 ```
 
 ### 2️⃣ Create a virtual environment
