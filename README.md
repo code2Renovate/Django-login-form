@@ -70,7 +70,7 @@ django-user-registration/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/code2Renovate/django-user-registration.git
+git clone https://github.com/sagarcs818/django-user-registration.git
 cd django-user-registration
 ```
 
@@ -120,3 +120,7 @@ http://127.0.0.1:8000/
 ```bash
 http://127.0.0.1:8000/admin/
 ```
+
+---
+
+⭐ If you like this project, consider starring the repository.
